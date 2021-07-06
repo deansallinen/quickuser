@@ -44,6 +44,10 @@
 	margin: 0 auto;
   }
 
+main div h1{
+	text-align: center;
+}	
+
 input {
 	font-family: monospace;
 	width: 40ch;
