@@ -1,3 +1,3 @@
-# QuickHex
+# QuickUser
 
-Refresh the page to generate a new hex
+Refresh the page to generate a new user
