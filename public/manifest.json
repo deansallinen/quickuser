@@ -1,8 +1,8 @@
 {
 	"background_color": "#ffffff",
 	"theme_color": "#333333",
-	"name": "QuickHex",
-	"short_name": "QuickHex",
+	"name": "QuickUser",
+	"short_name": "QuickUser",
 	"display": "standalone",
 	"start_url": "/",
 	"icons": [
